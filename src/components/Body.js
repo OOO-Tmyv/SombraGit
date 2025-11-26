@@ -20,7 +20,7 @@ const Body = () => {
       id: 3,
       name: "Turyk Ruslan",
       position: "BA",
-      photo: "/Ruslan.jpg",
+      photo: "/Turyk.jpg",
     },
     {
       id: 4,
