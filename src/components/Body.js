@@ -30,7 +30,7 @@ const Body = () => {
     },
     {
       id: 5,
-      name: "Hrechko Hrystyna",
+      name: "Hrechko Khrystyna",
       position: "Team Lead",
       photo: "/Skarb.jpg",
     },
