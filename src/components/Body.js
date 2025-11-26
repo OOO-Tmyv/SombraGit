@@ -24,9 +24,9 @@ const Body = () => {
     },
     {
       id: 4,
-      name: "Golec Roman",
+      name: "Holets Roman",
       position: "Just a guy",
-      photo: "/Roman.jpg",
+      photo: "/Holets.jpg",
     },
     {
       id: 5,
