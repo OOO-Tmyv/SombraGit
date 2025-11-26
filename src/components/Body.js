@@ -12,9 +12,9 @@ const Body = () => {
     },
     {
       id: 2,
-      name: "Gloriya Tsizdyn-Balabanova",
+      name: "Hloriia Tsizdyn Balabanova",
       position: "UI/UX Designer",
-      photo: "/Glory.jpg",
+      photo: "/Hloriia.jpg",
     },
     {
       id: 3,
