@@ -13,7 +13,7 @@ const Body = () => {
     {
       id: 2,
       name: "Hloriia Tsizdyn Balabanova",
-      position: "UI/UX Designer",
+      position: "Cutie UI/UX Designer",
       photo: "/Hloriia.jpg",
     },
     {
