@@ -8,7 +8,7 @@ const Body = () => {
       id: 1,
       name: "Andrii Pielievan",
       position: "Software engineer",
-      photo: "/Andrii.jpg",
+      photo: "/AndriiTop.jpg",
     },
     {
       id: 2,
