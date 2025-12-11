@@ -13,7 +13,7 @@ const Body = () => {
     {
       id: 2,
       name: "Hloriia Tsizdyn Balabanova",
-      position: "UI/UX Designer",
+      position: "Cutie UI/UX Designer",
       photo: "/Hloriia.jpg",
     },
     {
@@ -25,7 +25,7 @@ const Body = () => {
     {
       id: 4,
       name: "Holets Roman",
-      position: "Just a guy",
+      position: "Just a Rom4ik",
       photo: "/Holets.jpg",
     },
     {
